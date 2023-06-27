@@ -4,7 +4,5 @@
 
 I'm interested in the whole web application development life cycle; from small apps with a handful of users to hundreds of microservices with millions of users. Engineering, designing, and implementing them just excites me.
 
-
-- 🔭 I use DotNet/C# for developing things right now
 - 🌱 I’m always learning. From this day to my last day!
 - 📫 You can reach me here [sajadjalilian.github.io](http://sajadjalilian.github.io/)
