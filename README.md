@@ -6,3 +6,10 @@ I'm interested in the whole web application development life cycle; from small a
 
 - 🌱 I’m always learning. From this day to my last day!
 - 📫 You can reach me here [sajadjalilian.github.io](http://sajadjalilian.github.io/)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=SajadJalilian&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadJalilian&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
