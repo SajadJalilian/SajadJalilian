@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi there, I'm Sajad, an old-school geek at heart!  Programming and building web applications are my jam.  I write code with humans in mind, figuring the machines will catch up eventually.   Minimalism is my motto, in life and code – less is definitely more!
+Hi, I'm Sajad, an old-school geek at heart!  Programming and building web applications is my jam.  I write code with people in mind, thinking that machines will eventually catch up.   Minimalism is my motto, in life and in code - less is definitely more!
 
-The entire web development life cycle fascinates me, from tiny apps with a handful of users to massive microservices serving millions.  Engineering, designing, and bringing them to life – that's what gets me excited!
+The entire web development lifecycle fascinates me, from tiny apps with a handful of users to massive microservices serving millions.  Developing, designing, and bringing them to life - that's what excites me!
 
 - 🌱 **Always learning, from day one to the very end!**
 - 📫 You can reach me here [sajadjalilian.github.io](http://sajadjalilian.github.io/)
